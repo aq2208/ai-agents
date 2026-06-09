@@ -20,3 +20,16 @@ agent orchestration:
 
 agent frameworks:
     openclaw
+
+
+crawl full resources (schedule + manual trigger) -> filter negative -> segment by domain: IBFT, OAO, MMF, Payment, Noti, Promotion
+
+crawl data + extract text from image + store image + compare image with sample
+
+tokenize, embedding, RAG
+
+Sentiment analysis --> để classify negative, positive => negative thì hốt
+
+prompt engineer
+
+guard rail
