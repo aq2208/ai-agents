@@ -1,0 +1,22 @@
+agent = llm + ability to take actions
+
+llm: only chat and response
+agent: based on llm response to do actions, llm participates in choosing actions, using tools and observations to make progress toward a goal
+
+components in ai agent:
+    - llm
+    - external tools and actions
+    - memory
+    - planning and reasoning
+    - 
+
+agent loop pattern:
+    observe -> think -> act
+
+agent memory:
+    1. short-term memory: context window
+
+agent orchestration:
+
+agent frameworks:
+    openclaw
