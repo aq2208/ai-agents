@@ -10,6 +10,10 @@ components in ai agent:
     - planning and reasoning
     - 
 
+tokenization:
+    - breaks raw text into smaller units called tokens and maps each token to a numeric ID from the model's vocabulary
+    - A token might be a word, part of a word, punctuation, whitespace, a code symbol, an emoji, a byte sequence, or a single character, depending on the tokenizer.
+
 agent loop pattern:
     observe -> think -> act
 
