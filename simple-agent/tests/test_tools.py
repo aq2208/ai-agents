@@ -11,7 +11,8 @@ def test_web_search_returns_answer_field_when_present():
         "results": [],
     }
     with patch("tools.requests.post", return_value=mock_resp):
-        result = web_search("what is python")
+        with patch.dict("os.environ", {"TAVILY_API_KEY": "test_key"}):
+            result = web_search("what is python")
     assert result == "Python is a high-level programming language."
 
 
@@ -25,13 +26,15 @@ def test_web_search_falls_back_to_results_when_no_answer():
         ],
     }
     with patch("tools.requests.post", return_value=mock_resp):
-        result = web_search("python")
+        with patch.dict("os.environ", {"TAVILY_API_KEY": "test_key"}):
+            result = web_search("python")
     assert "Python Docs" in result
     assert "programming language" in result
 
 
 def test_web_search_returns_error_string_on_exception():
     with patch("tools.requests.post", side_effect=Exception("network timeout")):
-        result = web_search("query")
+        with patch.dict("os.environ", {"TAVILY_API_KEY": "test_key"}):
+            result = web_search("query")
     assert "error" in result.lower()
     assert "network timeout" in result
