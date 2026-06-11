@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Separately-managed git repos / cloned tooling (not embedded as submodules)
+clawathon-aicbc-agent/
+greennode-agentbase-skills/
+simple-agent/greennode-agentbase-skills/

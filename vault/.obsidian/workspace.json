@@ -1,0 +1,317 @@
+{
+  "main": {
+    "id": "f8f52e3acad08825",
+    "type": "split",
+    "children": [
+      {
+        "id": "083b4d1be2383f5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cba34facc9b7a3b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📍 Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "📍 Roadmap"
+            }
+          },
+          {
+            "id": "e8f2aadd66cf444a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "f9bdd454b96d0a26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Project_Context.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project_Context"
+            }
+          },
+          {
+            "id": "fd6c4cfc90588234",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Sentiment Analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sentiment Analysis"
+            }
+          },
+          {
+            "id": "3706b23e3610bc98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Architecture"
+            }
+          },
+          {
+            "id": "e1e7166d450859ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/RAG - Retrieval-Augmented Generation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RAG - Retrieval-Augmented Generation"
+            }
+          },
+          {
+            "id": "58bb12e622311f9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Report Format.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Report Format"
+            }
+          },
+          {
+            "id": "831c1776310d6c98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Architecture"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f5819d87a0e9ff9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7178aeddbf4138ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27c3dbb9025779b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7b38c28885a76cbe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2a19f552a51a65c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 385.5
+  },
+  "right": {
+    "id": "6a585ac8da313c70",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d1835160b7646db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fb87bd116ee0d93",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Concepts/Embeddings.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Embeddings"
+            }
+          },
+          {
+            "id": "0d71146d757a1022",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Concepts/Embeddings.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Embeddings"
+            }
+          },
+          {
+            "id": "7923505b782f4d91",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9ac1720e4f53e5eb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e688ed040f1aea0b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Concepts/Embeddings.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Embeddings"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f9bdd454b96d0a26",
+  "lastOpenFiles": [
+    "Projects/Project_Context.md.tmp.50093.7186ffbcc330",
+    "Frameworks/Anthropic SDK.md.tmp.50093.43d486dd7f85",
+    "Projects/00 - Project Home.md",
+    "Projects/Architecture.md",
+    "Projects/Project_Context.md",
+    "Projects/Architecture.md.tmp.50093.628a3d9e725e",
+    "Projects/Hackathon.md",
+    "Concepts/Embeddings.md",
+    "Projects/Report Format.md",
+    "Projects/Code Walkthrough.md",
+    "Concepts/Prompt Engineering.md",
+    "Tools/AgentBase Platform Guide.md",
+    "Concepts/RAG - Retrieval-Augmented Generation.md",
+    "Concepts/Sentiment Analysis.md",
+    "📍 Roadmap.md",
+    "Concepts/How the NLP Concepts Connect.md",
+    "Concepts/Tokenization & Text Preprocessing.md",
+    "Concepts/RAG - Retrieval-Augmented Generation.md.tmp.79856.904985fabdb8",
+    "Projects/Architecture Review.md",
+    "🏠 Home.md",
+    "Concepts/Agent Loop - ReAct Pattern.md",
+    "Concepts/Tool Use & Function Calling.md",
+    "Concepts/LLM API Basics.md",
+    "Projects/Implementation Plan.md",
+    "Concepts/What is an AI Agent.md",
+    "Tools/Vector Databases.md",
+    "Projects/2026-06-10-agentbase-sample-agent-plan.md",
+    "Projects/2026-06-10-agentbase-sample-agent-design.md",
+    "Frameworks/What is an Agent Framework.md"
+  ]
+}

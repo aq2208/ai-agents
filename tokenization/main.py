@@ -2,7 +2,7 @@ import tiktoken
 
 # Get the tokenizer for GPT-4o.
 # At the time of writing, this maps to the o200k_base tokenizer.
-encoder = tiktoken.encoding_for_model("gpt-5.5")
+encoder = tiktoken.get_encoding("o200k_base")
 
 text = "Tokenization affects cost and latency."
 
